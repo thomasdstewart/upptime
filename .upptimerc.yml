@@ -11,7 +11,11 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+  - name: email
+    check: "tcp-ping"
+    url: onyx.stewarts.org.uk
+    port: 25
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
