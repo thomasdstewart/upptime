@@ -26,7 +26,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  introTitle: intro
+  introMessage: mess
+  
 i18n:
   footer: f
 # Upptime also supports notifications, assigning issues, and more
