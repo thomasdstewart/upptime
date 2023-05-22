@@ -7,8 +7,8 @@ sites:
     url: https://stewarts.org.uk
   - name: wtda
     url: https://wtda.org
-  - name: retrobian.org
-    url: https://retrobian.org
+  - name: retrobian.org.uk
+    url: https://retrobian.org.uk
   - name: onyx.stewarts.org.uk/smtp
     check: "tcp-ping"
     url: onyx.stewarts.org.uk
@@ -19,7 +19,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: Status
+  introTitle: ""
   introMessage: ""
   navbar:
     - title: Status
