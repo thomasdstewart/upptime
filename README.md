@@ -1,4 +1,4 @@
-# [📈 Live Status]([https://upptime.github.io/upptime](https://thomasdstewart.github.io/upptime/)): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://thomasdstewart.github.io/upptime/): <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/thomasdstewart/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/thomasdstewart/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/thomasdstewart/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/thomasdstewart/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
