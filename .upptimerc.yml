@@ -3,16 +3,35 @@ owner: thomasdstewart
 repo: upptime
 
 sites:
-  - name: stewarts.org.uk
+  - name: stewarts.org.uk http
     url: https://stewarts.org.uk
-  - name: wtda.org
+  - name: wtda.org http
     url: https://wtda.org
-  - name: retrobian.org.uk
+  - name: retrobian.org.uk http
     url: https://retrobian.org.uk
-  - name: onyx.stewarts.org.uk/smtp
+    
+  - name: onyx.stewarts.org.uk ssh
+    check: "tcp-ping"
+    url: onyx.stewarts.org.uk
+    port: 22
+  - name: onyx.stewarts.org.uk smtp
     check: "tcp-ping"
     url: onyx.stewarts.org.uk
     port: 25
+  - name: onyx.stewarts.org.uk imaps
+    check: "tcp-ping"
+    url: onyx.stewarts.org.uk
+    port: 993
+
+  - name: humite.stewarts.org.uk ssh
+    check: "tcp-ping"
+    url: humite.stewarts.org.uk
+    port: 22
+
+  - name: jet.stewarts.org.uk ssh
+    check: "tcp-ping"
+    url: jet.stewarts.org.uk
+    port: 22
     
 status-website:
   # cname: demo.upptime.js.org
@@ -26,6 +45,6 @@ status-website:
 #      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  
+
 i18n:
   footer: ""
