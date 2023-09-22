@@ -42,18 +42,16 @@
     "slug": "retrobian-org-uk-http",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
     "timeDay": 339,
     "timeWeek": 315,
     "timeMonth": 320,
     "timeYear": 352,
-    "dailyMinutesDown": {
-      "2023-09-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "onyx.stewarts.org.uk ssh",
