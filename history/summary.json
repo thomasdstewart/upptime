@@ -58,9 +58,9 @@
     "url": "onyx.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "onyx-stewarts-org-uk-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +69,18 @@
     "timeWeek": 110,
     "timeMonth": 116,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   },
   {
     "name": "onyx.stewarts.org.uk smtp",
     "url": "onyx.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "onyx-stewarts-org-uk-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +89,18 @@
     "timeWeek": 109,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   },
   {
     "name": "onyx.stewarts.org.uk imaps",
     "url": "onyx.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "onyx-stewarts-org-uk-imaps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +109,9 @@
     "timeWeek": 110,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   },
   {
     "name": "humite.stewarts.org.uk ssh",
