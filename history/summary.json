@@ -22,19 +22,19 @@
     "url": "https://wtda.org",
     "icon": "https://icons.duckduckgo.com/ip3/wtda.org.ico",
     "slug": "wtda-org-http",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 10420,
-    "timeWeek": 2777,
-    "timeMonth": 873,
+    "timeDay": 7029,
+    "timeWeek": 2496,
+    "timeMonth": 854,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-04-20": 0
+      "2024-04-20": 13
     }
   },
   {
