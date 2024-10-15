@@ -40,19 +40,19 @@
     "url": "https://retrobian.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/retrobian.org.uk.ico",
     "slug": "retrobian-org-uk-http",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 181,
-    "timeWeek": 305,
-    "timeMonth": 363,
+    "time": 350,
+    "timeDay": 177,
+    "timeWeek": 289,
+    "timeMonth": 357,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 5
     }
   },
   {
