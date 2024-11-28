@@ -4,18 +4,20 @@
     "url": "https://stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/stewarts.org.uk.ico",
     "slug": "stewarts-org-uk-http",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 676,
-    "timeWeek": 649,
-    "timeMonth": 691,
-    "timeYear": 594,
-    "dailyMinutesDown": {}
+    "time": 592,
+    "timeDay": 868,
+    "timeWeek": 701,
+    "timeMonth": 703,
+    "timeYear": 595,
+    "dailyMinutesDown": {
+      "2024-11-28": 0
+    }
   },
   {
     "name": "wtda.org http",
