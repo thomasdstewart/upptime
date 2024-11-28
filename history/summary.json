@@ -14,7 +14,7 @@
     "timeDay": 950,
     "timeWeek": 747,
     "timeMonth": 715,
-    "timeYear": 597,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2024-11-28": 714
     }
@@ -127,19 +127,19 @@
     "url": "humite.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "humite-stewarts-org-uk-ssh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.76%",
     "time": 131,
-    "timeDay": 96,
-    "timeWeek": 125,
-    "timeMonth": 123,
+    "timeDay": 124,
+    "timeWeek": 128,
+    "timeMonth": 124,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-11-28": 0,
+      "2024-11-28": 14,
       "2024-10-27": 16,
       "2024-10-24": 20,
       "2024-10-12": 44,
@@ -175,7 +175,7 @@
     "timeDay": 68,
     "timeWeek": 48,
     "timeMonth": 52,
-    "timeYear": 56,
+    "timeYear": 55,
     "dailyMinutesDown": {}
   }
 ]
