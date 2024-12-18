@@ -4,9 +4,9 @@
     "url": "https://stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/stewarts.org.uk.ico",
     "slug": "stewarts-org-uk-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.86%",
@@ -16,6 +16,7 @@
     "timeMonth": 1009,
     "timeYear": 621,
     "dailyMinutesDown": {
+      "2024-12-18": 0,
       "2024-11-28": 714
     }
   },
