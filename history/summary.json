@@ -6,17 +6,16 @@
     "slug": "stewarts-org-uk-http",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 797,
-    "timeDay": 1183,
-    "timeWeek": 1063,
-    "timeMonth": 1153,
+    "timeDay": 1066,
+    "timeWeek": 1071,
+    "timeMonth": 1160,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-05-25": 15,
       "2025-01-06": 18,
       "2024-12-18": 30,
       "2024-11-28": 714
@@ -34,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 80,
+    "timeDay": 258,
     "timeWeek": 243,
     "timeMonth": 280,
-    "timeYear": 256,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 384,
-    "timeWeek": 431,
-    "timeMonth": 490,
+    "timeDay": 358,
+    "timeWeek": 414,
+    "timeMonth": 485,
     "timeYear": 443,
     "dailyMinutesDown": {}
   },
@@ -71,7 +70,7 @@
     "uptimeYear": "99.98%",
     "time": 102,
     "timeDay": 77,
-    "timeWeek": 88,
+    "timeWeek": 85,
     "timeMonth": 94,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -92,7 +91,7 @@
     "uptimeYear": "99.90%",
     "time": 102,
     "timeDay": 77,
-    "timeWeek": 88,
+    "timeWeek": 85,
     "timeMonth": 94,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -115,7 +114,7 @@
     "uptimeYear": "99.99%",
     "time": 102,
     "timeDay": 77,
-    "timeWeek": 88,
+    "timeWeek": 85,
     "timeMonth": 94,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -132,10 +131,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 123,
     "timeDay": 95,
-    "timeWeek": 104,
+    "timeWeek": 102,
     "timeMonth": 114,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -172,8 +171,7 @@
       "2024-08-23": 35,
       "2024-07-30": 15,
       "2024-06-03": 20,
-      "2024-05-27": 61,
-      "2024-05-26": 50
+      "2024-05-27": 61
     }
   },
   {
@@ -187,9 +185,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 51,
+    "time": 52,
     "timeDay": 67,
-    "timeWeek": 59,
+    "timeWeek": 62,
     "timeMonth": 58,
     "timeYear": 52,
     "dailyMinutesDown": {}
