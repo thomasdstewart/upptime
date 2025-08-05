@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 865,
-    "timeDay": 765,
-    "timeWeek": 1076,
-    "timeMonth": 975,
-    "timeYear": 970,
+    "time": 866,
+    "timeDay": 1021,
+    "timeWeek": 1036,
+    "timeMonth": 980,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2025-06-12": 38,
       "2025-01-06": 18,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 269,
-    "timeWeek": 350,
-    "timeMonth": 312,
+    "timeDay": 100,
+    "timeWeek": 307,
+    "timeMonth": 307,
     "timeYear": 267,
     "dailyMinutesDown": {}
   },
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 326,
-    "timeWeek": 374,
-    "timeMonth": 420,
-    "timeYear": 498,
+    "timeDay": 317,
+    "timeWeek": 338,
+    "timeMonth": 412,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2025-06-12": 26
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 102,
-    "timeDay": 76,
-    "timeWeek": 103,
-    "timeMonth": 104,
+    "timeDay": 81,
+    "timeWeek": 96,
+    "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2025-01-24": 73,
@@ -93,15 +93,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 102,
-    "timeDay": 76,
-    "timeWeek": 103,
-    "timeMonth": 104,
+    "timeDay": 80,
+    "timeWeek": 96,
+    "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2025-01-24": 72,
       "2024-11-10": 363,
-      "2024-10-05": 23,
-      "2024-08-05": 73
+      "2024-10-05": 23
     }
   },
   {
@@ -116,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 76,
-    "timeWeek": 103,
-    "timeMonth": 104,
+    "timeDay": 80,
+    "timeWeek": 96,
+    "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2025-01-24": 71
@@ -130,15 +129,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "humite-stewarts-org-uk-ssh",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.82%",
     "time": 121,
-    "timeDay": 107,
-    "timeWeek": 127,
-    "timeMonth": 127,
+    "timeDay": 103,
+    "timeWeek": 120,
+    "timeMonth": 126,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-07-19": 18,
@@ -191,10 +190,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 51,
-    "timeDay": 70,
-    "timeWeek": 52,
-    "timeMonth": 50,
-    "timeYear": 51,
+    "timeDay": 69,
+    "timeWeek": 56,
+    "timeMonth": 52,
+    "timeYear": 52,
     "dailyMinutesDown": {}
   }
 ]
