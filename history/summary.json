@@ -13,7 +13,7 @@
     "time": 1022,
     "timeDay": 811,
     "timeWeek": 760,
-    "timeMonth": 846,
+    "timeMonth": 843,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2026-03-21": 40,
@@ -36,7 +36,7 @@
     "time": 277,
     "timeDay": 331,
     "timeWeek": 251,
-    "timeMonth": 231,
+    "timeMonth": 232,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-12-19": 27,
@@ -82,7 +82,7 @@
     "time": 104,
     "timeDay": 123,
     "timeWeek": 107,
-    "timeMonth": 104,
+    "timeMonth": 105,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2026-01-12": 183,
@@ -104,7 +104,7 @@
     "time": 104,
     "timeDay": 123,
     "timeWeek": 108,
-    "timeMonth": 105,
+    "timeMonth": 106,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2026-01-12": 183,
@@ -126,7 +126,7 @@
     "time": 104,
     "timeDay": 121,
     "timeWeek": 107,
-    "timeMonth": 104,
+    "timeMonth": 105,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2026-01-12": 183,
@@ -141,17 +141,16 @@
     "slug": "humite-stewarts-org-uk-ssh",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.78%",
     "time": 123,
     "timeDay": 155,
     "timeWeek": 121,
-    "timeMonth": 121,
+    "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-03-30": 7,
       "2026-03-25": 45,
       "2026-03-15": 31,
       "2026-02-24": 41,
@@ -189,8 +188,7 @@
       "2025-04-23": 16,
       "2025-04-16": 19,
       "2025-04-11": 15,
-      "2025-04-09": 22,
-      "2025-03-31": 18
+      "2025-04-09": 22
     }
   },
   {
@@ -207,7 +205,7 @@
     "time": 50,
     "timeDay": 38,
     "timeWeek": 48,
-    "timeMonth": 50,
+    "timeMonth": 49,
     "timeYear": 50,
     "dailyMinutesDown": {}
   }
