@@ -135,11 +135,11 @@
     "url": "humite.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "humite-stewarts-org-uk-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "96.18%",
+    "uptimeDay": "96.16%",
     "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.56%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.70%",
     "time": 125,
     "timeDay": 126,
@@ -180,7 +180,8 @@
       "2026-07-18": 105,
       "2026-08-11": 73,
       "2026-08-13": 67,
-      "2026-08-19": 55
+      "2026-08-19": 55,
+      "2026-08-20": 0
     }
   },
   {
