@@ -13,8 +13,8 @@
     "time": 868,
     "timeDay": 332,
     "timeWeek": 713,
-    "timeMonth": 789,
-    "timeYear": 806,
+    "timeMonth": 788,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2025-11-06": 29,
       "2026-02-13": 62,
@@ -35,7 +35,7 @@
     "time": 267,
     "timeDay": 255,
     "timeWeek": 257,
-    "timeMonth": 277,
+    "timeMonth": 280,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2025-11-18": 137,
@@ -56,7 +56,7 @@
     "time": 490,
     "timeDay": 84,
     "timeWeek": 271,
-    "timeMonth": 282,
+    "timeMonth": 280,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-11-18": 143,
@@ -80,8 +80,8 @@
     "time": 104,
     "timeDay": 77,
     "timeWeek": 107,
-    "timeMonth": 111,
-    "timeYear": 105,
+    "timeMonth": 112,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2025-10-06": 24,
       "2026-01-12": 183
@@ -101,8 +101,8 @@
     "time": 104,
     "timeDay": 76,
     "timeWeek": 109,
-    "timeMonth": 111,
-    "timeYear": 105,
+    "timeMonth": 112,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2025-10-06": 136,
       "2026-01-12": 183
@@ -122,7 +122,7 @@
     "time": 104,
     "timeDay": 77,
     "timeWeek": 107,
-    "timeMonth": 111,
+    "timeMonth": 112,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2025-10-06": 49,
@@ -135,16 +135,16 @@
     "url": "humite.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "humite-stewarts-org-uk-ssh",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.70%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "92.44%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.68%",
     "time": 126,
-    "timeDay": 103,
-    "timeWeek": 130,
-    "timeMonth": 133,
+    "timeDay": 102,
+    "timeWeek": 127,
+    "timeMonth": 132,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-10-02": 15,
@@ -180,7 +180,7 @@
       "2026-08-13": 67,
       "2026-08-19": 55,
       "2026-08-20": 48,
-      "2026-09-09": 0
+      "2026-09-09": 109
     }
   },
   {
@@ -197,7 +197,7 @@
     "time": 50,
     "timeDay": 69,
     "timeWeek": 47,
-    "timeMonth": 44,
+    "timeMonth": 43,
     "timeYear": 49,
     "dailyMinutesDown": {}
   }
