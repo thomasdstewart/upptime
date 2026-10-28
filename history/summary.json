@@ -142,7 +142,7 @@
     "timeDay": 103,
     "timeWeek": 126,
     "timeMonth": 124,
-    "timeYear": 126,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2025-11-04": 18,
       "2025-11-06": 31,
@@ -185,10 +185,10 @@
     "url": "jet.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jet-stewarts-org-uk-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
@@ -196,6 +196,8 @@
     "timeWeek": 50,
     "timeMonth": 52,
     "timeYear": 49,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-28": 1
+    }
   }
 ]
