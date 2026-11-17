@@ -13,8 +13,8 @@
     "time": 808,
     "timeDay": 459,
     "timeWeek": 653,
-    "timeMonth": 635,
-    "timeYear": 746,
+    "timeMonth": 642,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2026-02-13": 62,
       "2026-03-21": 40
@@ -34,8 +34,8 @@
     "time": 280,
     "timeDay": 167,
     "timeWeek": 204,
-    "timeMonth": 266,
-    "timeYear": 274,
+    "timeMonth": 265,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2025-11-18": 137,
       "2025-12-19": 27
@@ -55,7 +55,7 @@
     "time": 452,
     "timeDay": 62,
     "timeWeek": 220,
-    "timeMonth": 292,
+    "timeMonth": 299,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-11-18": 143,
@@ -80,7 +80,7 @@
     "timeDay": 91,
     "timeWeek": 94,
     "timeMonth": 98,
-    "timeYear": 105,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2026-01-12": 183
     }
@@ -90,21 +90,22 @@
     "url": "onyx.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "onyx-stewarts-org-uk-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "77.99%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "98.59%",
+    "uptimeDay": "77.68%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.85%",
     "time": 105,
     "timeDay": 128,
     "timeWeek": 106,
-    "timeMonth": 100,
+    "timeMonth": 101,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2026-01-12": 183,
       "2026-11-14": 303,
-      "2026-11-16": 317
+      "2026-11-16": 317,
+      "2026-11-17": 4
     }
   },
   {
@@ -121,7 +122,7 @@
     "time": 105,
     "timeDay": 86,
     "timeWeek": 94,
-    "timeMonth": 97,
+    "timeMonth": 98,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2026-01-12": 183,
@@ -185,18 +186,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jet-stewarts-org-uk-ssh",
     "status": "down",
-    "uptime": "98.55%",
+    "uptime": "98.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.13%",
-    "uptimeYear": "94.93%",
+    "uptimeMonth": "36.78%",
+    "uptimeYear": "94.73%",
     "time": 49,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 56,
+    "timeMonth": 55,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2026-11-16": 476,
+      "2026-11-17": 67,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
