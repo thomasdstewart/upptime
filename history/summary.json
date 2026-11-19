@@ -88,16 +88,16 @@
     "url": "onyx.stewarts.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "onyx-stewarts-org-uk-smtp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "81.53%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "81.52%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.61%",
-    "time": 106,
-    "timeDay": 0,
-    "timeWeek": 120,
-    "timeMonth": 104,
+    "time": 105,
+    "timeDay": 76,
+    "timeWeek": 114,
+    "timeMonth": 103,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2026-01-12": 183,
@@ -105,7 +105,7 @@
       "2026-11-16": 317,
       "2026-11-17": 1012,
       "2026-11-18": 225,
-      "2026-11-19": 4
+      "2026-11-19": 5
     }
   },
   {
@@ -188,7 +188,7 @@
     "uptime": "98.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.80%",
+    "uptimeMonth": "29.79%",
     "uptimeYear": "94.15%",
     "time": 49,
     "timeDay": 0,
@@ -196,7 +196,7 @@
     "timeMonth": 54,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2026-11-19": 245,
+      "2026-11-19": 249,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
